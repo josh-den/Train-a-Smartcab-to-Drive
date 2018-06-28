@@ -2,4 +2,4 @@
 
 Project to train a simulated smart cab
 
-See "dog_app (1).ipynb" to open project!
+See "smartcab.ipynb" to open project!
